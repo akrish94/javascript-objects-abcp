@@ -1,6 +1,6 @@
 var playlist = { 
-  "Taylor Swift": "Enchanted" 
-  "Kanye West": "Homecoming"
+  TaylorSwift: "Enchanted" 
+  KanyeWest: "Homecoming"
 }
 
 
