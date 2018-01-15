@@ -1,6 +1,3 @@
-var playlist = { 
-  TaylorSwift: "Enchanted" 
-  KanyeWest: "Homecoming"
-}
+var playlist = { TaylorSwift: "Enchanted" }
 
 
